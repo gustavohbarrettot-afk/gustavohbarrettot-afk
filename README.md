@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gustavo Barretto
 
-<!--
-**gustavohbarrettot-afk/gustavohbarrettot-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor de Sistemas | Programador
 
-Here are some ideas to get you started:
+Desenvolvedor de Sistemas e Programador, focado na criação de aplicações digitais funcionais e bem estruturadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interesse
+
+- Desenvolvimento de sistemas
+- Desenvolvimento web
+- Inteligência artificial
+- Flutter
+
+## Links
+
+- [Portfólio profissional](https://gustavo-barretto-portfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-bt-9316163ab/)
